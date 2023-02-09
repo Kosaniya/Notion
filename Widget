@@ -244,11 +244,11 @@
 
 <body>
 
-  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"> <i class="fa-regular fa-star"></i> 3D news</button>
+  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"> <i class="fa-regular fa-star"></i> My Button</button>
   
   <script>
     function navigate() {
-      window.open("https://theconversation.com/us/topics/3d-modelling-11067", '_blank').focus();
+      window.open("https://example.com", '_blank').focus();
     }
   </script>
 
